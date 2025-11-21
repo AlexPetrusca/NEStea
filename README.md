@@ -16,7 +16,7 @@ Features:
 - Support for mappers 0, 1, 2, 3, 4, and 66
 - ...and a few more surprises (okay, maybe not that many)
 
-### Some of my Favorites to Emulate
+### Some of my Favorites
 
 These games have a special place in my heart.
 
